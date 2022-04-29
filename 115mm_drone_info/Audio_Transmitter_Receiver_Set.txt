@@ -1,0 +1,128 @@
+Eachine VTX02 + ROTG02 FPV Combo 5.8G 40CH 200mW Diversity Audio Transmitter Receiver Set for Android
+
+ 
+
+Description :
+Eachine ROTG02 UVC receiver is a new receiver that you can connect to your smart phone and computer.PAD directly instead of heavy monitor and good for those who feel dizzy when wear FPV goggles. It has low latency around 100ms .150CH auto search allows to cover all 5.8G frequency bands.
+ 
+Please note:This Receiver only suits for Android phone that support UVC and make sure your phone can work with OTG connector.
+ 
+Notice:
+*An antenna has been added to a single antenna receiver  to provide more stable signals
+*Add a button to make it more convenient to adjust the channel
+*Increase the function of channel waveform display
+*Adding app audio playback
+*Long press any button to enter the automatic scanning mode
+*Mobile phones with Qual CPU support almost all
+
+*Some phones need to open the OTG function in the settings
+
+Specification: 
+
+1. Model : VTX02 
+
+Brand name: Eachine
+Output power: 200mW
+Input voltage: 3.2-5.5V
+5V camera supply, 580mA (Max)
+Video system: NTSC/PAL
+Antenna dimensions: 55mm X 5mm diameter
+Antenna: IPEX
+Frequency: 5.8Ghz 5 bands 40 channels, with Raceband: 5658-5917MHz
+Size: 20*14mm (L*W)
+Weight: 2.8g
+
+
+
+
+2. Model : ROTG02  
+
+Model	    ROTG02
+Name	    UVC OTG FPV Receiver
+Channel	    150CH
+Frequency Range	    5645~5945
+Sensitivity	    -90dBm
+Working Current	    300mA/5V
+Power Supply	    5V(by smart phone)
+Operating Temperature	    -10~60℃
+Connector	     RP-SMA Female
+Weight     	     About 35g
+Size	     61*41*11 mm
+Color	     Black
+  
+3. Model: RHCP Clover RPSMA Antenna
+Brand name: Realacc
+Gain: 5dbi
+Weight: 10g
+
+
+
+4. Model : UXII Stubby RHCP U.FL/IPEX Antenna
+
+Brand Name : Realacc
+
+Size: 24mm x 16mm
+Gain: 1.6dbi
+Axial ratio: 1.0 (near perfect)
+Bandwidth: 5.5GHz-6.0GHz
+Radiation Efficiency: 98%
+SWR: <=1.5:1
+Works great as both a transmitting or receiving antenna
+Compatible with other styles of 5.8GHz RHCP antennas
+
+5. Model : 15dBi High Gain RX Flat Antenna         
+Frequency: 5.8GHz
+Resistance: 50ohm
+Gain: 15dbi
+Polarization : Linear 90°/Vertical 90°
+Connector: SMA Male / RP-SMA Male 
+Size: 70*74*10mm            
+Weight: 34g 
+
+
+How to check my phone support UVC:
+https://drive.google.com/open?id=0Bzr4U7GOGvNJUjNGZ25EdTlSLWs       
+APP Download:
+http://files.banggood.com/2016/11/fuav.2.0.apk
+
+                      
+Here's the phone list support this receiver that we have test .
+Sumsung: S3(I9300,I9308), S4(I9500,I9507V,I9508,S5,S6,S6, edge+,S7edge, NOTE3,NOTE4,NOTE5,A5100,A8000,ON7,P600,N7100,N5100,Tab S2..)
+OPPO:A31,A31C,A33,A51,A53,A33M,A51,A53,A5M,N3,FIND7,R7005, R7007,3007,R2017,R8000,R8205,R8207,R7SM,R7 PLUS,R9 PLUS, ect..
+for XIAOMI: XIAOMI 3,XIAOMI 4,XIAOMI 4C,XIAOMI5,XIAOMI pad, XIAOMI Red Note,XIAOMI Red Note3,ect...non original
+HUAWEI:MATE8, C199,Honor8
+LG:GPRO2,G3,NEXUS5,L24,GPAD8.3, ect..
+ :XPRO,NEXUS6,MOTO E,MZ617,ect..
+SY:Z1,Z2,Z3,C3,SGP321,ect........
+
+
+
+Operation:
+
+VTX
+Three adjustable gears, on/off switch, CH, FR automatically cycle display three gears on LED after power on.
+Short press button to adjust "CH", 1-8 adjustable.
+Press and hold button 2s, transfer to FR, A, B, E, F, R adjustable, then short press button to adjust FR.
+Press and hold button 5s to adjust on/off, "0" and "=" adjustable, short press button to adjust, "0" stands for "off", and "=" stands for "on".
+
+RX:
+There are 2 same connecters on USB cable, but in different function.  
+One side is special for mobile, the other is special for receiver.
+Please connect them correctly. If it doesn't work , please try to plug them in reverse.
+
+
+
+Package Included: 
+1 x Eachine ROTG02 FPV Receiver  Black
+2 x RP-SMA Antenna
+1 x USB Cable
+1 x Micro Type-C Cable
+
+1 X FPV Transmitter
+1 X IPEX antenna
+
+1 x RHCP IPEX antenna
+
+1 x RHCP RPSMA antenna
+
+1 x Flat Panel Antenna
